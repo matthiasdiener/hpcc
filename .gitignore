@@ -1,4 +1,5 @@
 *.o
 *.a
 hpcc
+hpcc.x
 hpccoutf.txt
