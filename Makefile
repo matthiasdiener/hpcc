@@ -1,6 +1,6 @@
 # -*- Makefile -*-
 
-arch = UNKNOWN
+arch = Unix
 include hpl/Make.$(arch)
 
 all:
