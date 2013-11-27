@@ -218,7 +218,17 @@ form at the HPC Challenge website.
   
 
 
-5.1  Version 1.4.2 (2012-10-12)
+5.1  Version 1.4.3 (2013-08-26)
+===============================
+   
+  
+   1. Increased the size of scratch vector for local FFT tests that was
+   missed in the previous version (reported by SGI). 
+   2. Added Makefile for Blue Gene/P contributed by Vasil Tsanov. 
+  
+
+
+5.2  Version 1.4.2 (2012-10-12)
 ===============================
    
   
@@ -242,7 +252,7 @@ form at the HPC Challenge website.
   
 
 
-5.2  Version 1.4.1 (2010-06-01)
+5.3  Version 1.4.1 (2010-06-01)
 ===============================
    
   
@@ -260,7 +270,7 @@ form at the HPC Challenge website.
   
 
 
-5.3  Version 1.4.0 (2010-03-26)
+5.4  Version 1.4.0 (2010-03-26)
 ===============================
    
   
@@ -278,7 +288,7 @@ form at the HPC Challenge website.
   
 
 
-5.4  Version 1.3.2 (2009-03-24)
+5.5  Version 1.3.2 (2009-03-24)
 ===============================
    
   
@@ -290,7 +300,7 @@ form at the HPC Challenge website.
   
 
 
-5.5  Version 1.3.1 (2008-12-09)
+5.6  Version 1.3.1 (2008-12-09)
 ===============================
    
   
@@ -301,7 +311,7 @@ form at the HPC Challenge website.
   
 
 
-5.6  Version 1.3.0 (2008-11-13)
+5.7  Version 1.3.0 (2008-11-13)
 ===============================
    
   
@@ -320,7 +330,7 @@ form at the HPC Challenge website.
   
 
 
-5.7  Version 1.2.0 (2007-06-25)
+5.8  Version 1.2.0 (2007-06-25)
 ===============================
   
   
@@ -376,42 +386,42 @@ form at the HPC Challenge website.
   
 
 
-5.8  Version 1.0.0 (2005-06-11)
+5.9  Version 1.0.0 (2005-06-11)
 ===============================
   
 
 
-5.9  Version 0.8beta (2004-10-19)
-=================================
-  
-
-
-5.10  Version 0.8alpha (2004-10-15)
-===================================
-  
-
-
-5.11  Version 0.6beta (2004-08-21)
+5.10  Version 0.8beta (2004-10-19)
 ==================================
   
 
 
-5.12  Version 0.6alpha (2004-05-31)
+5.11  Version 0.8alpha (2004-10-15)
 ===================================
   
 
 
-5.13  Version 0.5beta (2003-12-01)
+5.12  Version 0.6beta (2004-08-21)
 ==================================
   
 
 
-5.14  Version 0.4alpha (2003-11-13)
+5.13  Version 0.6alpha (2004-05-31)
 ===================================
   
 
 
-5.15  Version 0.3alpha (2004-11-05)
+5.14  Version 0.5beta (2003-12-01)
+==================================
+  
+
+
+5.15  Version 0.4alpha (2003-11-13)
+===================================
+  
+
+
+5.16  Version 0.3alpha (2004-11-05)
 ===================================
   
 -----------------------------------------------------------------------
